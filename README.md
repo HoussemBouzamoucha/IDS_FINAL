@@ -378,15 +378,6 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ---
 
-## 📧 Contact
-
-**Author:** [Your Name]  
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**GitHub:** [@yourusername](https://github.com/yourusername)
-
----
-
 <div align="center">
 
 **⭐ Star this repo if you found it useful!**
